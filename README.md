@@ -1,2 +1,0 @@
-# Spendo
-Expense Tracker Application

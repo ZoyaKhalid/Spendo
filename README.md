@@ -28,13 +28,13 @@ To develop a mobile application for personal finance management that allows user
 
 ## Screenshots
 
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](screenshots/welcome.jpeg)
 *Landing Page*
 
-![Signup Screen](screenshots/signup.png)
+![Signup Screen](screenshots/signup.jpeg)
 *Event detail screen with register option*
 
-![Main Screen](screenshots/main.png)
+![Main Screen](screenshots/main.jpeg)
 *Successful addition of Income and Expense in account*
 
 ---

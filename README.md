@@ -26,6 +26,19 @@ To develop a mobile application for personal finance management that allows user
 
 ---
 
+## Screenshots
+
+![Welcome Screen](screenshots/welcome.png)
+*Landing Page*
+
+![Signup Screen](screenshots/signup.png)
+*Event detail screen with register option*
+
+![Main Screen](screenshots/main.png)
+*Successful addition of Income and Expense in account*
+
+---
+
 ## How to Run the Project
 
 ### Prerequisites:
@@ -37,3 +50,9 @@ To develop a mobile application for personal finance management that allows user
    ```bash
    git clone https://github.com/ZoyaKhalid/Spendo.git
    cd Spendo
+2. Install  dependencies:
+   ```bash
+   npm install
+3. Run the App:
+   ```bash
+   expo start

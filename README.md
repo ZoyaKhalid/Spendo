@@ -47,17 +47,16 @@ To develop a mobile application for personal finance management that allows user
 - npm installed  
 - Expo CLI installed globally:
 
+- npm install -g expo-cli
+
+## Steps
+
 ```bash
-npm install -g expo-cli
-
-Steps
-
 1. Clone the repository
 git clone https://github.com/ZoyaKhalid/Spendo.git
 cd Spendo
 
 2. Install dependencies
 npm install
-
 3. Run the application
 expo start

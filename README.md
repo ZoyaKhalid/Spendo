@@ -33,8 +33,6 @@ To develop a mobile application for personal finance management that allows user
 - **Signup Screen / Event Detail Screen with Register Option**
 - **Main Screen / Income & Expense Added Successfully**
 
-
-```markdown
 ![Welcome Screen](/screenshots/welcome.jpeg)
 ![Signup Screen](/screenshots/signup.jpeg)
 ![Main Screen](/screenshots/main.jpeg)

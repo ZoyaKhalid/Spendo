@@ -49,14 +49,20 @@ To develop a mobile application for personal finance management that allows user
 
 - npm install -g expo-cli
 
+---
+
 ## Steps
 
-```bash
 1. Clone the repository
+```bash
 git clone https://github.com/ZoyaKhalid/Spendo.git
 cd Spendo
 
-2. Install dependencies
+3. Install dependencies
+
+```bash
 npm install
 3. Run the application
+
+```bash
 expo start
